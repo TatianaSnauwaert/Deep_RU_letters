@@ -10,12 +10,10 @@ The goal of this project is to classify an image of a handwritten letter into on
 
 The project's notebook (Deep_RU_letters_ CNN tutorial.ipynb) has four main parts:
 
-Introduction
 1. Data preparation
 2. Model creation and tuning
 3. Model evaluation
 4. Model prediction on test data
-Conclusion
 
 *References*:
 
