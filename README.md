@@ -10,7 +10,7 @@ The source files for the project (images and their metadata) can be found in the
 - The folder with all images (all_letters_image)
 - The information file about each image - cyrillic letter, it's label, image's file name, image's background (all_letters_info)
 
-The project's notebook (Deep_RU_letters_ CNN tutorial.ipynb) has four main parts:
+The project's notebook (Deep_RU_letters_ CNN tutorial.ipynb) can also be found on [Kaggle](https://www.kaggle.com/tatianasnwrt/deep-ru-letters-cnn-tutorial). It has four main parts:
 
 1. Data preparation
 2. Model creation and tuning
@@ -26,7 +26,7 @@ Letter Symbols => Letter Labels:
 
 - I have organized the original dataset to make it easier to understand for beginners. The updated version can be found on this [link](https://www.kaggle.com/tatianasnwrt/russian-handwritten-letters).
 
-- Most of the explanations are borrowed from the [Kaggle "Deep Learning" course](https://www.kaggle.com/learn/deep-learning) and this [kernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/output#Introduction-to-CNN-Keras---Acc-0.997-(top-8%)).
+- Most of the explanations in the jupyter notebook are borrowed from the [Kaggle "Deep Learning" course](https://www.kaggle.com/learn/deep-learning) and this [kernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/output#Introduction-to-CNN-Keras---Acc-0.997-(top-8%)).
 I will develope a Sequential Convolutional Neural Network for this project. I've chosen to build it with keras API (Tensorflow backend) which is very intuitive. Firstly, I will prepare the data (handwritten letters images) then i will focus on the CNN modeling and evaluation.
 
 **The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/15L4IlWvsdMmVphFHvqlhz3lmE25VTatBQBejyFZUyK0/edit?usp=sharing).** It includes the following tabs:
