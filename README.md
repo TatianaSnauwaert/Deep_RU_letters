@@ -5,6 +5,8 @@ The goal of this project is to classify an image of a handwritten letter into on
 **This project's repo includes the following files**:
 - The project's final jupyter notebook (Deep_RU_letters_ CNN tutorial.ipynb);
 - The final pretrained model (best_model.h5)
+
+The source files for this project (images and their metadata) can be found in the [dataset](https://www.kaggle.com/tatianasnwrt/russian-handwritten-letters) I've created on Kaggle. It includes the following files:
 - The folder with all images (all_letters_image)
 - The information file about each image - cyrillic letter, it's label, image's file name, image's background (all_letters_info)
 
