@@ -29,3 +29,10 @@ The logbook of this project can be found [here](https://docs.google.com/spreadsh
 - Ideas to improve the model
 - Logbook of different configurations I tested
 - Lessons learnt from the project
+
+**This project's repo includes the following files**:
+- The project's final jupyter notebook (Deep_RU_letters_ CNN tutorial.ipynb);
+- The final pretrained model (best_model.h5)
+- The folder with all images (all_letters_image)
+- The information file about each image - cyrillic letter, it's label, image's file name, image's background (all_letters_info)
+
