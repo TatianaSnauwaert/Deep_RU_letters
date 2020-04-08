@@ -11,7 +11,7 @@ Letter Symbols => Letter Labels:
 
 - I have organized the original dataset to make it easier to understand for beginners. The updated version can be found on this [link](https://www.kaggle.com/tatianasnwrt/russian-handwritten-letters).
 
-- Most of the explanations are borrowed from the [Kaggle "Deep Learning" course](https://www.kaggle.com/learn/deep-learning) and this [kernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/output#Introduction-to-CNN-Keras---Acc-0.997-(top-8%).
+- Most of the explanations are borrowed from the [Kaggle "Deep Learning" course](https://www.kaggle.com/learn/deep-learning) and this [kernel](https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6/output#Introduction-to-CNN-Keras---Acc-0.997-(top-8%)).
 I will develope a Sequential Convolutional Neural Network for this project. I've chosen to build it with keras API (Tensorflow backend) which is very intuitive. Firstly, I will prepare the data (handwritten letters images) then i will focus on the CNN modeling and evaluation.
 
 The project's notebook (Deep_RU_letters_ CNN tutorial.ipynb) has four main parts:
